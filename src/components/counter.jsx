@@ -1,4 +1,3 @@
-import React from 'react'
 const Counter = (props) => {
     const { value } = props
     const formatValue = () => {
